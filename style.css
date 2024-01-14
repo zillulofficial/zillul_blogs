@@ -300,8 +300,8 @@ footer{
     margin: 0 0.3rem;
     transition: all 0.5s ease;
 }
-.social-linksa:hover{
-    background: white;
+.social-links a:hover{
+    background-color: white;
     color: var(--exDark);
 
 }
